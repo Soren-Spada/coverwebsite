@@ -1,0 +1,28 @@
+h1{
+    text-align:center;
+    font-variant: small-caps;
+    font-weight:bold;
+    font-size:40px;
+}
+h2{
+    font-size:30px;
+    font-family: cursive;
+}
+
+#TableofContents a{
+    font-weight:bold;
+    color: grey;
+}
+
+
+#toc{
+    margin-right: 75%;
+    padding: 10px;
+    border: 2px dashed black ;
+    background-color: green;
+}
+
+#toc-t{
+    position: relative;
+    left: 10px;
+}
